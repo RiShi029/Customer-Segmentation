@@ -23,7 +23,7 @@ We will see elbow points, elbow-points are the points at which there is sharp dr
  - We will choose **5** for number of clusters for this dataset as there is no sharp drop after this.
 
 ### 5. Visualization and Reporting:
-To present the findings in a compelling and understandable manner, I have created interactive visualizations using Plotly or Dash. This allowed stakeholders and decision-makers to explore the customer segments and insights intuitively.
+To present the findings in a compelling and understandable manner, I have created interactive visualizations. This allowed stakeholders and decision-makers to explore the customer segments and insights intuitively.
 ![Visualization](./images/capture151.png)
 
 ## What we can get from this ?
